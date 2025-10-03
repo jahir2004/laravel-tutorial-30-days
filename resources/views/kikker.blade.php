@@ -16,7 +16,7 @@
     <p>ribbit ribbit</p>
 
     <footer>
-        <a href="/">Home</a>
+        <a href="/welcome">Welcome</a>
         <a href="/about">About</a>
         <a href="/products">Products</a>
         <a href="/kikker">Kikker</a>
