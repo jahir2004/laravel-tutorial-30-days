@@ -5,6 +5,8 @@ use App\Models\job;
 
 
 Route::get('/', function () {
+ 
+  
     return view('welcome');
 });
 
